@@ -23,4 +23,11 @@ fn main() {
         }
         counter += 1;
     }
+
+    // * Use a while statement
+    let mut counter_2 = 1;
+    while counter_2 <= 4 {
+        println!("{}", counter_2);
+        counter_2 += 1;
+    }
 }
