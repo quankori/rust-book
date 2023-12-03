@@ -41,7 +41,11 @@ cargo run
 ```
 
 ```bash
-cargon build
+cargo run --bin 1-function
+```
+
+```bash
+cargo build
 ```
 
 ```bash
