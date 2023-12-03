@@ -21,5 +21,5 @@ fn main() {
     // * Use a boolean variable to an expression that evaluates to true or false
     let value = 100;
     let is_gt_100 = value > 100;
-    print_message(gt_100);
+    print_message(is_gt_100);
 }
